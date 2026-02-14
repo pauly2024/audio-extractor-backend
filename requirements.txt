@@ -4,5 +4,5 @@ flask-cors
 gunicorn
 google-generativeai
 static-ffmpeg
-numpy==1.23.5
+numpy==1.22.4
 spleeter==2.1.0
