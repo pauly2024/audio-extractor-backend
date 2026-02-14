@@ -1,7 +1,8 @@
-flask
+flask==2.0.1
+werkzeug==2.0.3
 flask-cors
 gunicorn
 google-generativeai
 static-ffmpeg
-spleeter==2.3.0
 numpy==1.23.5
+spleeter==2.1.0
