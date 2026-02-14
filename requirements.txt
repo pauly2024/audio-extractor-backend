@@ -3,4 +3,5 @@ flask-cors
 gunicorn
 google-generativeai
 static-ffmpeg
-spleeter
+spleeter==2.3.0
+numpy==1.23.5
