@@ -1,0 +1,8 @@
+Flask==2.0.1
+Werkzeug==2.0.3
+flask-cors
+spleeter
+gunicorn
+static-ffmpeg
+numpy<1.24.0
+google-generativeai
