@@ -1,9 +1,6 @@
-setuptools
-wheel
 flask
 flask-cors
 gunicorn
 google-generativeai
 static-ffmpeg
-numpy==1.23.5
-spleeter==2.1.0
+spleeter
