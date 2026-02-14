@@ -1,3 +1,5 @@
+setuptools
+wheel
 flask
 flask-cors
 gunicorn
@@ -5,4 +7,3 @@ google-generativeai
 static-ffmpeg
 spleeter
 numpy==1.23.5
-setuptools
